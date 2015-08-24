@@ -4,7 +4,7 @@ body {
     background-size: auto 100%;
 }
 h1{
-    font-family: 'Sigmar One'
+    font-family: 'Sigmar One';
 }
 
 .padding-up{
@@ -32,6 +32,9 @@ h1{
                 5px 5px #000, 
                 6px 6px #000;
 }
-.shadow p {
+p {
     font-size: 22px;
+}
+a{
+    text-decoration: none;
 }
